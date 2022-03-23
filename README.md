@@ -23,9 +23,11 @@ Anko提供了许多扩展函数来简化使用SQLite数据库的工作。
 
 添加 `anko-sqlite` 依赖到 `build.gradle`:
 
+[![](https://jitpack.io/v/Neo-Turak/sqlite-helper.svg)](https://jitpack.io/#Neo-Turak/sqlite-helper)
+
 ```groovy
 dependencies {
-    implementation "org.jetbrains.anko:anko-sqlite:$anko_version"
+    implementation 'com.github.Neo-Turak:sqlite-helper:v1.0.0'
 }
 ```
 
